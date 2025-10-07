@@ -2,7 +2,7 @@
 
 **Technical Documentation and User Manual**
 
-> A comprehensive Python-based analysis tool for ProxySQL query caching optimization, connection pool efficiency monitoring, and performance diagnostics.
+> A comprehensive Python-based analysis tool for [ProxySQL](https://proxysql.com/) query caching optimization, connection pool efficiency monitoring, and performance diagnostics.
 >
 > by George Liu (eva2000) at https://centminmod.com/
 
